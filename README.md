@@ -1,5 +1,7 @@
 # and-or
 
+[![Build Status](https://travis-ci.org/nas5w/and-or.svg?branch=master)](https://travis-ci.org/nas5w/and-or) [![Codecov Status](https://codecov.io/gh/nas5w/and-or/branch/master/graph/badge.svg)](https://codecov.io/gh/nas5w/and-or/branch/master)
+
 Easy javascript logic tests.
 
 ## Example Use
