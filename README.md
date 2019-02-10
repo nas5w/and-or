@@ -6,12 +6,12 @@ Easy javascript logic tests.
 
 ## :rocket: Example Use
 
-`and-or` can be used to nest your `and` and `or` logic any number of levels deep, as complex as your heart desires.
+`andor.js` can be used to nest your `and` and `or` logic any number of levels deep, as complex as your heart desires.
 
 ### requirejs
 
 ```javascript
-const { and, or } = require("and-or");
+const { and, or } = require("andor.js");
 
 const test1 = and(true, true, or(true, false, true), true);
 console.log(test1);
@@ -25,7 +25,7 @@ console.log(test2);
 ### es6 modules
 
 ```javascript
-import { and, or } from "and-or";
+import { and, or } from "andor.js";
 
 const test1 = and(true, true, or(true, false, true), true);
 console.log(test1);
