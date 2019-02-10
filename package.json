@@ -1,0 +1,22 @@
+{
+  "name": "and-or",
+  "version": "0.0.1",
+  "description": "An easier way to check complex logic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "and",
+    "or"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nas5w/and-or.git"
+  },
+  "author": "Nick Scialli",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
