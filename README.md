@@ -6,6 +6,8 @@ Easy javascript logic tests.
 
 ## :rocket: Example Use
 
+`and-or` can be used to nest your `and` and `or` logic any number of levels deep, as complex as your heart desires.
+
 ### requirejs
 
 ```javascript
