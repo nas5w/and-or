@@ -1,5 +1,5 @@
 {
-  "name": "and-or",
+  "name": "andor.js",
   "version": "0.0.1",
   "description": "An easier way to check complex logic.",
   "main": "index.js",
