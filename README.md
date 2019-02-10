@@ -4,7 +4,7 @@
 
 Easy javascript logic tests.
 
-## Example Use
+## :rocket: Example Use
 
 ### requirejs
 
